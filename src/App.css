@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.title {
+  text-align: center;
+  font-family: 'Libre Barcode 39 Extended Text', cursive;
+  font-size: 60px;
+  font-weight: 100;
+  color: #311d3f;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.color-guide {
+  margin-right: 30px;
+  text-align: center;
+}
+.user {
+  padding: 7px 15px;
+  border-radius: 10px;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  background: #e23e57;
+  margin: 10px 0;
+  display: inline-block;
+  margin-right: 5px;
+}
+.guest {
+  background: #17bebb;
+  color: white;
+  margin-left: 5px;
+}
